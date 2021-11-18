@@ -1,7 +1,10 @@
+contennido para rama1:  
+Crear un repositorio · En la esquina superior derecha de cualquier página, utiliza el menú desplegable y selecciona Repositorio Nuevo. · Escribe un nombre corto y
+
 Ingeniero de Sistemas y Magíster en sistemas de Información con experiencia en desarrollo de aplicaciones, administración de base de datos, gestión de proyectos y 
 metodologías agiles.
 
 Con habilidad para el trabajo en equipo, manejo de personal, capacidad de análisis para la resolución de problemas, facilidad para el aprendizaje y espíritu investigativo. 
 Mi profesión y experiencia me permite comprender problemas en el sector comercial y productivo del país en áreas relacionadas con la informática y la tecnología. 
 
-Apasionado de la tecnología y el aprendizaje continuo en el área de los sistemas de información, ofreciendo solución a los problemas con métodos de Ingeniería de forma innovadora, crítica y analítica, la cual he desarrollado estando en constante investigación tecnológica. Tengo como objetivo analizar, diseñar y validar soluciones que garanticen la transversalidad de los componentes tecnológicos de una arquitectura empresarial, como son: seguridad, reusabilidad, flexibilidad, escalabilidad, disponibilidad y eficiencia.
+
